@@ -1,11 +1,11 @@
 /**
- * @name suki
- * @author Chillax Squad
- * @authorLink https://github.com/warrayquipsome/Chillax#author
+ * @name Suki
+ * @author Suki
+ * @authorLink https://github.com/warrayquipsome/Suki#author
  * @version 0.2
  * @invite DrfX6286kF
- * @description stress doesn't really goes with your fit, try out chillax you might not regret it.
- * @source https://github.com/warrayquipsome/Chillax
+ * @description stress doesn't really goes with your fit, try out Suki you might not regret it.
+ * @source https://github.com/warrayquipsome/Suki
 */
 
 /*
@@ -35,17 +35,17 @@
 
 /*Permissions*/
 /*
--You do not have the rights to use our theme name Chillax™ on other projects 
+-You do not have the rights to use our theme name Suki™ on other projects 
 -You do not have the rights to remove our theme watermark in the theme
 -You do not have the rights to change this theme author name to anyone
 */
 
 /*credits*/
 /*
-========================= Chillax Squad =========================
+========================= Suki Squad =========================
  Wq                                       Author
  Demented_Elmo                            Co-Author
- Cedrick                                  Chillax Squad
+ Cedrick                                  Suki Squad
 =================================================================
  Replace Wandering Cubes                  by AGreenPig
  Embeds                                   by Alexis  WyvernZu
@@ -71,7 +71,7 @@
 */
 
 
-/*Chillax Roots*/
+/*Suki Roots*/
 /*discord transparency*//*roots*/ /*theme dark*/
   .theme-dark {
   --background-message-hover: rgba(255, 255, 255, 0.055);
@@ -155,9 +155,9 @@
   --rs-phone-color:var(--rs-online-color);
 
 
-  /*chillax colours rgb*/ /*you can find it in https://www.google.com/search?q=color+picker&sxsrf=ALiCzsYKrCjMKrZIxmXaa2pbzaLKvkznBA%3A1655630964863&ei=dOyuYtahNICQ4-EPx6mHaA&ved=0ahUKEwjWq6j8mbn4AhUAyDgGHcfUAQ0Q4dUDCA4&uact=5&oq=color+picker&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyCggAEOQCELADGAEyCggAEOQCELADGAEyCggAEOQCELADGAEyDwguENQCEMgDELADEEMYAjIPCC4Q1AIQyAMQsAMQQxgCMg8ILhDUAhDIAxCwAxBDGAJKBAhBGABKBAhGGAFQAFgAYL0DaAFwAXgAgAEAiAEAkgEAmAEAyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz*/
+  /*Suki colours rgb*/ /*you can find it in https://www.google.com/search?q=color+picker&sxsrf=ALiCzsYKrCjMKrZIxmXaa2pbzaLKvkznBA%3A1655630964863&ei=dOyuYtahNICQ4-EPx6mHaA&ved=0ahUKEwjWq6j8mbn4AhUAyDgGHcfUAQ0Q4dUDCA4&uact=5&oq=color+picker&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyCggAEOQCELADGAEyCggAEOQCELADGAEyCggAEOQCELADGAEyDwguENQCEMgDELADEEMYAjIPCC4Q1AIQyAMQsAMQQxgCMg8ILhDUAhDIAxCwAxBDGAJKBAhBGABKBAhGGAFQAFgAYL0DaAFwAXgAgAEAiAEAkgEAmAEAyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz*/
   --accentcolor:	  251, 84, 84;	
-  /*chillax colours hex*/ /*you can find it in https://www.google.com/search?q=color+picker&sxsrf=ALiCzsYKrCjMKrZIxmXaa2pbzaLKvkznBA%3A1655630964863&ei=dOyuYtahNICQ4-EPx6mHaA&ved=0ahUKEwjWq6j8mbn4AhUAyDgGHcfUAQ0Q4dUDCA4&uact=5&oq=color+picker&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyCggAEOQCELADGAEyCggAEOQCELADGAEyCggAEOQCELADGAEyDwguENQCEMgDELADEEMYAjIPCC4Q1AIQyAMQsAMQQxgCMg8ILhDUAhDIAxCwAxBDGAJKBAhBGABKBAhGGAFQAFgAYL0DaAFwAXgAgAEAiAEAkgEAmAEAyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz*/
+  /*Suki colours hex*/ /*you can find it in https://www.google.com/search?q=color+picker&sxsrf=ALiCzsYKrCjMKrZIxmXaa2pbzaLKvkznBA%3A1655630964863&ei=dOyuYtahNICQ4-EPx6mHaA&ved=0ahUKEwjWq6j8mbn4AhUAyDgGHcfUAQ0Q4dUDCA4&uact=5&oq=color+picker&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyCggAEOQCELADGAEyCggAEOQCELADGAEyCggAEOQCELADGAEyDwguENQCEMgDELADEEMYAjIPCC4Q1AIQyAMQsAMQQxgCMg8ILhDUAhDIAxCwAxBDGAJKBAhBGABKBAhGGAFQAFgAYL0DaAFwAXgAgAEAiAEAkgEAmAEAyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz*/
   --accentcolor2:     #fb5454;
      
      
